@@ -1,0 +1,24 @@
+{
+  "name": "danish-holidays",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This package provides danish holidays and their dates. It can be used to check if a date is a holiday, and get all holidays for a given year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chrilleweb",
+  "license": "MIT",
+  "keywords": [
+    "helligdage",
+    "danmark",
+    "holiday",
+    "denmark",
+    "calendar",
+    "date",
+    "public holidays"
+  ],
+  "engines": {
+    "node": ">=20.11.1"
+  }
+}
